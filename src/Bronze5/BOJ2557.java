@@ -1,4 +1,6 @@
-public class Q1 {
+package Bronze5;
+
+public class BOJ2557 {
 
     public static void main(String[] args) {
 
