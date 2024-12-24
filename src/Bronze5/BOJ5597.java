@@ -13,7 +13,7 @@ public class BOJ5597 {
             submitted[studentNumber - 1] = true;
         }
 
-        for (int i = 0; i < 30; i++) {
+        for (int i = 0; i < submitted.length; i++) {
             if (!submitted[i]) {
                 System.out.println(i+1);
             }
